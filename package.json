@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "jwt-decode": "^2.2.0",
     "localforage": "^1.7.4",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-loadable": "^5.5.0",
